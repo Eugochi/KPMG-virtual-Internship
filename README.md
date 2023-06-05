@@ -2,9 +2,9 @@
 
 Part 1 data cleaning
 
-part2 power point presentation on future analysis to be carried out and implemetation plans
+part2 power point presentation on future analysis to be carried out and implementation plans
 
-part3 using a dashboard to create insights and present findings based on the questions below
+part3 using power bi dashboard to create insights and present findings based on the questions below
 
 What are the trends in the underlying data?
 Which customer segment has the highest customer value?
